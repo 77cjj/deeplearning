@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pylab as plt
-
+#测试变更是否有效
 def sigmoid(x):
     return 1/(1+np.exp(-x))
 
